@@ -9,7 +9,7 @@ import os
 
 langs = tts_langs().keys()
 
-api_key = "gemini api key"  # Replace with your actual API key
+api_key = "AIzaSyDGmiz57W57FfGlpX5oN_F2qidHDG9_86Q"  # Replace with your actual API key 
 
 # Adding custom CSS for gradient heading
 st.markdown(
